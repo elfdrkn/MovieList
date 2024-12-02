@@ -1,7 +1,7 @@
 # Movie App
 
 This is a React-based movie application that allows users to search for movies, view popular movies, and save their favorite movies. The app integrates with The Movie Database (TMDb) API to fetch movie data.
-
+You can try the live version here: [Live App](https://movie-list-5venn7ynd-elfdrkns-projects.vercel.app/)
 ## Features
 
 - **Search for Movies**: Search for movies by name and view the results.
